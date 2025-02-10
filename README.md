@@ -5,6 +5,10 @@
 - 💬 Ask me about **Java, React**
 
 - 📫 How to reach me **40guptaaman@gmail.com**
+## Rotate
+
+<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/rotate.gif?raw=true" align = "right" height = "300px">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
