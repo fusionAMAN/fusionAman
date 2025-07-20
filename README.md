@@ -98,16 +98,16 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=terror-akshat&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=terror-akshat&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fusionAMAN&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fusionAMAN&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terror-akshat&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fusionAMAN&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-graph.ezra.sh?username=terror-akshat&bg=1F1F1F&color=3E8EF7&line=66CCFF" />
+  <img src="https://github-contribution-graph.ezra.sh?username=fusionAMAN&bg=1F1F1F&color=3E8EF7&line=66CCFF" />
 </p>
 
 ---
