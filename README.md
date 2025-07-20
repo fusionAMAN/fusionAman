@@ -74,7 +74,7 @@
 | Name | Description | Tech Stack |
 |------|-------------|------------|
 | 🏥 **Hospital Management System** | Automated OPD/IPD, lab reports, and shift handovers for 3 hospitals; reduced wait time by 30%. | `React`, `Node.js`, `Express`, `MongoDB` |
-| 🎨 **Vision Board** | Real-time collaborative whiteboard + WebRTC video chat; sub-100ms latency. | `WebRTC`, `WebSocket`, `React`, `Node.js` |
+| 🎨 **Board Meet** | Real-time collaborative whiteboard + WebRTC video chat; sub-100ms latency. | `WebRTC`, `WebSocket`, `React`, `Node.js` |
 | ✈️ **Journey Junction** | Travel booking platform with animations and search optimization. | `HTML`, `CSS`, `JavaScript` |
 
 🔗 Check out my pinned repositories!
