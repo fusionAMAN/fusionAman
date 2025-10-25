@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0DCEFF&center=true&vCenter=true&width=435&lines=Building+awesome+Web+Apps+💻;AI%2FML+Experimenter+🤖;Learning+DevOps+⚙️;Open+Source+Contributor+🌍" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 🧑‍💻 About Me
@@ -16,6 +15,8 @@
 - 🤝 Actively looking to **collaborate on Open Source Projects**
 - 💬 Ask me about **MERN stack, DSA, ML and AI/NLP**
 - 🧠 Solved **600+ DSA problems** on [LeetCode](https://leetcode.com/u/gupta_aman107/)
+- 📊 Attended Contests on [Codeforces](https://codeforces.com/profile/40guptaaman)
+- 📉 Giving Contests on [Codechef](https://www.codechef.com/users/aman_1520020)
 - 📫 Reach me at **40guptaaman@gmail.com**
 
 ---
