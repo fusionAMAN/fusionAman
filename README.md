@@ -16,7 +16,7 @@
 - 💬 Ask me about **MERN stack, DSA, ML and AI/NLP**
 - 🧠 Solved **600+ DSA problems** on [LeetCode](https://leetcode.com/u/gupta_aman107/)
 - 📊 Attended Contests on [Codeforces](https://codeforces.com/profile/40guptaaman)
-- 📉 Giving Contests on [Codechef](https://www.codechef.com/users/aman_1520020)
+- 📉 Giving Contests on [CodeChef](https://www.codechef.com/users/aman_1520020)
 - 📫 Reach me at **40guptaaman@gmail.com**
 
 ---
