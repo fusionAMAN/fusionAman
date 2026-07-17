@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hey there 👋, I'm Aman Gupta</h1>
-<h3 align="center">🚀 Full Stack Developer | AI-ML Explorer | DevOps Learner | India 🇮🇳</h3>
+<h3 align="center">🚀 Data Engineer | Full Stack Developer | AI-ML Explorer | DevOps Learner | India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0DCEFF&center=true&vCenter=true&width=435&lines=Building+awesome+Web+Apps+💻;AI%2FML+Experimenter+🤖;Learning+DevOps+⚙️;Open+Source+Contributor+🌍" alt="Typing SVG" />
